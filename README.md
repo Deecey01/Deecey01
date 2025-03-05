@@ -7,9 +7,9 @@
 
 My name is **Divyansh Chandak** & I am pursuing my Bachelor's in Computer Science and Engineering From [IIT Guwahati](https://www.iitg.ac.in/) . I am a **Software Engineer** & passionate about **Open Source** & **Development**. Open to collaborate on Projects. I Believe in **Collaborating with others is key to personal growth and success**.  
 
-- 📫 How to reach me **c.divyansh@iitg.ac.in**
+- 📫 How to reach me **deecey01@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1gsrL2rZvEoDPxKX2-dimUn4NsZg74tI9/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1cBqw5essmEiVH6KXCqOGfMD0kkbiQQXz/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/deecey01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deecey01" height="30" width="40" /></a>
